@@ -1,3 +1,12 @@
 body {
-  background-color: aliceblue;
+  background-color: rgb(44, 80, 112);
+
 }
+/* Use https://tablesgenerator.com/html_tables and https://www.rollingstone.com/music/music-lists/100-greatest-hip-hop-songs-of-all-time-105784/eric-b-and-rakim-paid-in-full-2-102464/ for sources */
+ 
+.DJ {
+  width: 99%;
+  align-items: center;
+  border-radius: 20%;
+}
+
